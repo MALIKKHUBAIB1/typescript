@@ -71,11 +71,9 @@
 // let ans: value;
 // ans = "means a lot";
 // console.log(ans);
-class User {
-    constructor() {
-        this.name = "jhon Doe";
-        this.age = "12";
-    }
-}
-const u1 = new User();
-console.log(u1);
+// class User {
+//   name = "jhon Doe";
+//   age = "12";
+// }
+// const u1 = new User();
+// console.log(u1);
